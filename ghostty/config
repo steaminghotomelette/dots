@@ -1,0 +1,18 @@
+theme = rose-pine-moon
+
+background-opacity = 0.8
+
+font-family = SF Mono
+font-size = 14
+
+cursor-invert-fg-bg = true
+cursor-style = block
+cursor-style-blink = false
+mouse-hide-while-typing = true
+shell-integration-features = no-cursor
+macos-titlebar-style = hidden
+
+window-padding-balance = true
+window-padding-color = extend-always
+
+#vim-ft=bash
